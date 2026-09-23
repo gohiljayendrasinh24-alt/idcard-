@@ -1,0 +1,6 @@
+{
+  "name": "વિદ્યાર્થી આઈડી કાર્ડ મેકર - Student ID Card Creator",
+  "description": "ગુજરાતી અને અંગ્રેજીમાં વ્યાવસાયિક વિદ્યાર્થી ઓળખપત્ર (Student ID Card) બનાવો, કસ્ટમાઇઝ કરો, પ્રિન્ટ અને ડાઉનલોડ કરો.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
